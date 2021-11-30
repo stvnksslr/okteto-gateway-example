@@ -12,7 +12,7 @@ forward:
 reverse:
   - 9000:9001
 
-# needed for the gateway forwarding port
+# needed for the gateway forwarding
 remote: 22000
 
 persistentVolume:
